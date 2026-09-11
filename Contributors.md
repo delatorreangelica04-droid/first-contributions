@@ -17,6 +17,7 @@
 - [Jose Grijalva](https://github.com/JLG1995)
 - [Haomou Ji](https://github.com/HaomouJi)
 - [Rahul Nashier](https://github.com/rahulnashier)
+- [Angelica De La Torre](https://github.com/delatorreangelica04-droid)
 - [Hassan Abdelnaby](https://github.com/HassanA69)
 Dev Raj (Perumalla)
 - [Pratham Gupta](https://github.com/guptapratham366-ws)
